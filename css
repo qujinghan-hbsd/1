@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>雪梨在线</title>
+	<style>
+	*{
+		padding:0;
+		margin:0;
+	}
+	a{
+		text-decoration: none;
+		color: #050505;
+	}
+	ul{
+		list-style-type: none;
+	}
+	.clear:after{
+		content: '';
+		display: block;
+		height: 0;
+		clear: both;
+	}
+	.all{
+		width:1920px ;
+		height: 2466px;
+	}
+	.container{
+		height: 101px;
+		margin-left: 369px;
+	}
+	.logo{
+		width: 170px;
+		height: 39px;
+		margin-top: 33px;
+		font-size: 40px;
+		color: #00A3FF;
+		font-weight: bold;
+		float:left;
+	}
+	.nav{
+		margin-left: 71px;
+		float: left;
+		margin-top: 42px;
+		margin-bottom: 21px;
+	}
+	.nav li{
+		float: left;
+		font-size: 18px;
+		width: 54px;
+		text-align: center;
+		padding-bottom: 10px;
+		font-weight: 400;
+	}
+	.header a:hover{
+		border-bottom: solid #00A3FF 2px;
+	}
+	.search{
+		float:left;
+		border-color: #00A3FF;
+		border-style: solid;
+		margin-left: 187px;
+		margin-top: 31px;
+		width: 322px;
+		height: 36px;
+	}
+	.submit{
+		float: left;
+		margin-top: 31px;
+		width: 50px;
+		height: 40px;
+		background: #00A3FF url('D:/web/images/作业4/search.png') no-repeat center;
+
+	}
+	.person{
+		float:right;
+		margin-top: 44px;
+		margin-left: 32px;
+		font-size: 14px;
+		color: #656565;
+	}
+	.banner{
+		background-color: #1B036B;
+	}
+	.list{
+		float: left;
+		margin-left: 360px;
+		width: 170px;
+		height: 366px;
+		background-color: #000000;
+		padding-left: 20px;
+		padding-top: 27px;
+		padding-bottom: 28px;
+	}
+	.banner a{
+		color: #FFFFFF;
+		font-size: 14px;
+		line-height: 3;
+	}
+	.banner a:hover{
+		color: #00A3FF;
+	}
+	.banner img{
+		float: left;
+		width: 1040px;
+		height: 420px;
+		padding: 0;
+	}
+	.list2{
+		margin-left: 360px;
+		width: 1200px;
+		height: 60px;
+		text-align: center;
+	}
+	.nav2 li{
+		margin-top: 21px;
+		margin-left: 34px;
+		float: left;
+		font-weight: bold;
+	}
+	.change{
+		float: right;
+	}
+	</style>
+</head>
+<body>
+	<div class="all">
+	<div class="header">
+		<div class="container">
+			<div class="logo clear">
+				<p>雪梨在线</p>
+			</div>
+			<div class="nav clear">
+				<ul>
+					<li><a href=" ">首页</a></li>
+			        <li><a href=" ">课程</a></li>
+			        <li style="width:92px"><a href=" ">职业规划</a></li>
+		        </ul>
+	         </div>
+	         <div class="clear">
+	         	<input type="text" placeholder="输入关键词" class="search" />
+	         	<input type="button" class="submit clear" />
+	         </div>
+	         <div class="person clear">
+	         	<p>个人中心</p>
+	         </div>
+		</div>
+    </div>
+    <div class="banner clear">
+    	<div class="list">
+    		<ul>
+    			<li><<a href="">前端开发        ></a></li>
+    			<li><<a href="">后端开发        ></a></li>
+    			<li><<a href="">移动开发        ></a></li>
+    			<li><<a href="">人工智能        ></a></li>
+    			<li><<a href="">商业预测        ></a></li>
+    			<li><<a href="">云计算&大数据   ></a></li>
+    			<li><<a href="">运维&从测试     ></a></li>
+    			<li><<a href="">UI设计          ></a></li>
+    			<li><<a href="">产品            ></a></li>
+    		</ul>
+    	</div>
+    	<img src="d:/web/images/作业4/banner.png" />
+    </div>
+    <div class="list2 clear">
+    	<div class="nav2">
+    		<ul>
+    		   	<li><a href="">精品推荐</a></li>
+    		    <li><a href="">JQuery</a></li>
+    		    <li><a href="">Spark</a></li>
+    		    <li><a href="">MySQL</a></li>
+    		    <li><a href="">JavaWeb</a></li>
+    		    <li><a href="">MySQL</a></li>
+    		    <li><a href="">JavaWeb</a></li>
+    	    </ul>
+        </div>
+        <div  class="change">
+        	<a href="">修改</a>
+        </div>
+    </div>
+	<img src="d:/web/images/作业4/1.png" />
+	<img src="d:/web/images/作业4/2.png" />
+	<img src="d:/web/images/作业4/3.png" />
+	<img src="d:/web/images/作业4/4.png" />
+	<img src="d:/web/images/作业4/4.png" />
+	<img src="d:/web/images/作业4/1.png" />
+	<img src="d:/web/images/作业4/2.png" />
+	<img src="d:/web/images/作业4/3.png" />
+	<img src="d:/web/images/作业4/4.png" />
+	<img src="d:/web/images/作业4/4.png" />
+	<img src="d:/web/images/作业4/5.png" />
+	<img src="d:/web/images/作业4/6.png" />
+	<img src="d:/web/images/作业4/7.png" />
+	<img src="d:/web/images/作业4/8.png" />
+	<img src="d:/web/images/作业4/9.png" />
+	<img src="d:/web/images/作业4/10.png" />
+	<img src="d:/web/images/作业4/people1.png" />
+	<img src="d:/web/images/作业4/people2.png" />
+	<img src="d:/web/images/作业4/people3.png" />
+	</div>
+</body>
+</html>
